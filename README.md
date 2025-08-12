@@ -1,4 +1,5 @@
 Tetiana Kalinichenko
+
 📊 Data Analyst
 Engineering mind meets European consumer markets. I find patterns in behavior data that drive business decisions.
 🛠 Technical Stack: Python • PostgreSQL • Power BI • Machine Learning

@@ -8,6 +8,7 @@ Engineering mind meets European consumer markets. I find patterns in behavior da
 🏪 Retail Performance Analysis - Store format optimization insights
 🍽 Restaurant Market Intelligence - Success prediction factors
 📈 C-Level Dashboard Suite - Executive reporting automation
+🗃 [SQL Practice Portfolio](https://github.com/tetiana-art-analyst/sql-portfolio) - Advanced queries, CTEs, window functions
 
 🌍 Languages: Ukrainian, Russian (Native) • English (B2) • German (B1)
 📍 Germany-based → Available across EU markets
